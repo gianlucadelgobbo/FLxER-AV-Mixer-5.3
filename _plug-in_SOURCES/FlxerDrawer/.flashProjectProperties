@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1288614263377</id>
+  <name>SVGwipesDrawer</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/admin/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/admin/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Users/admin/Documents/FLxER/__devFLxER/FLxER5alpha/_plug-in_SOURCES/FlxerDrawer/SVGwipesDrawer.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Users/admin/Documents/FLxER/__devFLxER/FLxER5alpha/_plug-in_SOURCES/FlxerDrawer/</rootURI>
+  <flexSDK/>
+  <sources editable="false">
+    <uri label="FLxER">/Users/admin/Documents/FLxER/__devFLxER/_sources5/FLxER</uri>
+  </sources>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Txt.as">file:///Macintosh HD/Users/admin/Documents/FLxER/__devFLxER/_sources5/FLxER/main/Txt.as</uri>
+    <uri label="ButtonTxt.as">file:///Macintosh HD/Users/admin/Documents/FLxER/__devFLxER/_sources5/FLxER/comp/ButtonTxt.as</uri>
+  </recentFiles>
+  <locations editable="true">
+    <uri label="_sources5">file:///Macintosh HD/Users/admin/Documents/FLxER/__devFLxER/_sources5/</uri>
+    <uri label="FLxER">file:///Macintosh HD/Users/admin/Documents/FLxER/__devFLxER/_sources5/FLxER/</uri>
+  </locations>
+</projectDescription>

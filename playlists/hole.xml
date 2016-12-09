@@ -1,0 +1,13 @@
+<lib>
+	<playlist name="hole" path="library/hole/">
+		<mov m="ambulanza.swf" />
+		<mov m="cool_gundam00.swf" />
+		<mov m="coolring01.swf" />
+		<mov m="coolsquare12.swf" />
+		<mov m="coolthoro01.swf" />
+		<mov m="cooltunnel01.swf" />
+		<mov m="pinup2.swf" />
+		<mov m="q_fallinghearts01.swf" />
+		<mov m="rosso_3.swf" />
+	</playlist>
+</lib>

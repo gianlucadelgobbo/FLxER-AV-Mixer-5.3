@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<playlists path="playlists/">
+	<lib m="MappingGames" />
+
+	<lib m="hole" />
+	<lib m="no_hole" />
+	<lib m="koncepts" />
+	<lib m="othersFiles" />
+</playlists>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<flxerPerferences version="5.2" col="0x999999" bkgCol="0x000000" bkgColOver="0x990000" brdCol="0x333333" pltCol="0x909090" monCol="0x000000">
+	<channels value="7" />
+	<flxerLibraryPath useServer="false" value="http://www.flxer.net/warehouse/_flxer/" />
+	<viewKeyboardShortcut value="true" />
+	<!-- BROADCAST SERVERS -->
+	<broadcastServers>
+		<server m="TEST on your PC" val="127.0.0.1" />
+	</broadcastServers>
+	<!-- 3D ENGINE -->
+	<treDengine smoothStop="true" zvalue="300" zalpha="true" />
+	<autoResize mode="1" />
+</flxerPerferences>

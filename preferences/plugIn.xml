@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><plugin>
+	<!-- YOUR WIPES -->
+	<wipes path="plug-in/wipes/"><mov m="CIRCULAR4.swf"/><mov m="spiralona4.swf"/><mov m="stellar4.swf"/></wipes>
+	<!-- YOUR DV-IN -->
+	<dv-in path="plug-in/dv_in/">
+		<mov m="160x120_15fps.swf"/>
+		<mov m="160x120_15fps_X4.swf"/>
+		<mov m="160x120_15fps_X4_kale.swf"/>
+		<mov m="160x120_15fps_X6.swf"/>
+		<mov m="320x240_15fps.swf"/>
+		<mov m="320x240_15fps_X4.swf"/>
+		<mov m="320x240_15fps_X4_kale.swf"/>
+		<mov m="320x240_15fps_X6.swf"/>
+		<mov m="400x300_15fps.swf"/>
+		<mov m="400x300_15fps_X4.swf"/>
+		<mov m="400x300_15fps_X4_kale.swf"/>
+		<mov m="400x300_15fps_X6.swf"/>
+		<mov m="400x300_25fps.swf"/>
+		<mov m="720x576_15fps.swf"/>
+		<mov m="720x576_25fps.swf"/>
+		<mov m="800x600_15fps.swf"/>
+		<mov m="800x600_25fps.swf"/>
+	</dv-in>
+	<!-- EFFECTS -->
+	<effects path="plug-in/effects/">
+		<mov m="rotate_ch4.swf"/>
+		<mov m="blur.swf"/>
+	</effects>
+	<!-- READER MODES -->
+	<readerModes path="plug-in/readerModes/">
+		<mov m="WordByWord.swf"/>
+		<mov m="RightToLeft.swf"/>
+		<mov m="YugoTxt.swf"/>
+	</readerModes>
+</plugin>
