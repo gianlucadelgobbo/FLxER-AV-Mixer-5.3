@@ -1,4 +1,4 @@
-FLxER AV Mixer 5.2
+FLxER AV Mixer 5.3
 =============
 PC / MAC / LINUX
 
@@ -6,7 +6,7 @@ https://flxer.net
 
 Published
 ------------
-14-03-2011
+18-07-2011
 
 ```
 ///////////////////////////////////////////
@@ -20,7 +20,7 @@ Published
 ///////////////////////////////////////////
 ```
 
-Here is the upgrade to the Flash Player 10.2 of the final version of FLxER 5.
+Here is the REAL upgrade to the Flash Player 10.2 of the final version of FLxER 5.
 
 Major changes
 ------------
