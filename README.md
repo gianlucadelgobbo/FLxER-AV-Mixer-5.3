@@ -1,4 +1,4 @@
-FLxER AV Mixer 5.0
+FLxER AV Mixer 5.2
 =============
 PC / MAC / LINUX
 
@@ -6,7 +6,7 @@ https://flxer.net
 
 Published
 ------------
-27-12-2010
+14-03-2011
 
 ```
 ///////////////////////////////////////////
@@ -20,15 +20,15 @@ Published
 ///////////////////////////////////////////
 ```
 
-Here is The final version of FLxER 5.
+Here is the upgrade to the Flash Player 10.2 of the final version of FLxER 5.
 
 Major changes
 ------------
-- New Mapping utility
-- Linux bug fixed
+- Flash Player 10.2 (Major performances + Windows 7 FullScreen solved)
+- 3D Rotations optimized
 - Some small bug fixed
 
-The Pakage contains
+The Package contains
 ------------
 - FLxER 5 (Application)
 - FLxER 5 MonitorOut
@@ -41,7 +41,6 @@ The Pakage contains
 - Oscillator
 - Default Library
 - Sources files for Wipes, PlugIn and DV-IN
-- 
 
 BEFORE START
 ------------
